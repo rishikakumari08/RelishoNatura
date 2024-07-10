@@ -1,0 +1,29 @@
+{
+  "name": "relishonatura",
+  "version": "1.0.0",
+  "description": "this is relishonatura website",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikakumari08/RelishoNatura.git"
+  },
+  "keywords": [
+    "RelishoNatura"
+  ],
+  "author": "Rishika kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikakumari08/RelishoNatura/issues"
+  },
+  "homepage": "https://github.com/rishikakumari08/RelishoNatura#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
